@@ -1,7 +1,7 @@
 name: picture_verification_code
-description: A new Flutter project.
-version: 0.0.1
-homepage:
+description: Generate a verification code picture according to the given verification code.
+version: 1.0.0
+homepage: https://github.com/waitwalker/picture_verification_code
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

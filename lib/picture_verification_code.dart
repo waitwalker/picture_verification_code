@@ -1,5 +1,4 @@
 library picture_verification_code;
-
 import 'dart:math';
 import 'package:flutter/material.dart';
 
