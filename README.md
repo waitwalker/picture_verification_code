@@ -42,3 +42,5 @@ class _CodeTestPageState extends State<CodeTestPage> {
   }
 }
 ```
+
+![snapshot](https://github.com/waitwalker/Resources/blob/master/Flutter/picture_verification_code/example.png?raw=true)
